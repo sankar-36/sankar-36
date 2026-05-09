@@ -3,7 +3,7 @@
 
 <img align="right" width="250" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [portfolio]([url](https://thriving-bienenstitch-3d1396.netlify.app/))                                                 
+- 🔭 Here's my [portfolio]([https://hareesh.webpp/](https://thriving-bienenstitch-3d1396.netlify.app/))                                                  
 - 🌱 I’m currently learning  DSA and Integrating AI to my workflow
 
 - Social Presence
